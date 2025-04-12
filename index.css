@@ -16,7 +16,7 @@ a {
     text-decoration: none;
 }
 
-img{
+ header img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -34,4 +34,13 @@ h1{
 footer{
     text-align: center;
     background-color: green;
+    border: 10px;
+}
+
+.container{
+    padding: 0px 50px;
+}
+
+nav a:hover{
+    color: green;
 }
